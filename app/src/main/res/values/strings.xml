@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">K-Profile IZ*ONE</string>
+    <string name="izone">IZ*ONE</string>
+    <string name="desc">IZ*ONE is a South Korean–Japanese girl group formed through the Korean Mnet survival competition show `Produce 48`</string>
+    <string name="member_name">Name</string>
+    <string name="fullname">Full Name</string>
+    <string name="rank">Rank</string>
+    <string name="role">Role</string>
+    <string name="birthday">Birthday</string>
+    <string name="zodiac">Zodiac Sign</string>
+    <string name="height">Height</string>
+    <string name="weight">Weight</string>
+    <string name="bloodtype">Blood Type</string>
+    <string name="agency">Agency</string>
+    <string name="about">About</string>
+    <string name="none">-</string>
+    <string name="favorite">Favorite</string>
+    <string name="share">Share</string>
+    <string name="profile_name">I Made Siva Aditya Surya</string>
+    <string name="email">sivaaditya0908@gmail.com</string>
+    <string name="hobby">Hobby</string>
+    <string name="speciality">Speciality</string>
+    <string name="official_color">Official Color</string>
+    <string name="facts">Facts</string>
+    <string name="debut">Debut Picture</string>
+</resources>
